@@ -44,11 +44,11 @@ Coloca las canciones que deseas analizar en un directorio específico (por ejemp
 
 En la terminal, navega hasta el directorio donde guardaste el script:
 
-   cd BPMgraph
+     cd BPMgraph
 
 Ejecuta el script:
 
-    python BPMgraph.py
+     python BPMgraph.py
     
 El script te pedirá que ingreses la ruta del directorio que contiene tus canciones. Por ejemplo:
     
