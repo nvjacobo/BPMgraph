@@ -1,6 +1,6 @@
 ## BPMgraph 
 
-BPMgraph es un contabilizar gráfico de los pulsos por minuto en pistas de audio que soporta archivos con extensiones .mp3, .wav, .flac, y .ogg.
+BPMgraph es un contabilizar gráfico de los pulsos por minuto en pistas de audio que soporta archivos de sonido .mp3, .wav, .flac, y .ogg.
 
 Ejemplo 
 
@@ -32,7 +32,7 @@ Esto instalará las bibliotecas necesarias.
 
 Descarga o copia el script y guárdalo como BPMgrpah.py o bien directamente por medio del comando git
 
-  git clone https://github.com/nvjacobo/BPMgraph
+    git clone https://github.com/nvjacobo/BPMgraph
     
 ### Uso del script
 
@@ -83,7 +83,7 @@ Asegúrate de que el directorio contiene archivos con extensiones compatibles: .
 
 Si deseas personalizar el script:
 
-    Cambiar colores:
+Cambiar colores:
         Modifica los colores alternados en la función plot_bpm_data:
 
     color=['#4caf50' if i % 2 == 0 else '#2196f3' for i in range(len(song_names))]
