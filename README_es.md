@@ -55,8 +55,6 @@ El script te pedirá que ingreses la ruta del directorio que contiene tus cancio
     
    /ruta/a/mis/canciones
 
-Ingresar el directorio de canciones
-
 #### Resultados 
 
 Salida:
