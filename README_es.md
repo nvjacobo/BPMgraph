@@ -1,6 +1,6 @@
 ## BPMgraph 
 
-BPMgraph es un contabilizar gráfico de los pulsos por minuto en pistas de audio que soporta archivos de sonido .mp3, .wav, .flac, y .ogg.
+BPMgraph es un cuantificador gráfico de los pulsos por minuto en pistas de audio que soporta archivos de sonido .mp3, .wav, .flac, y .ogg.
 
 Ejemplo 
 
