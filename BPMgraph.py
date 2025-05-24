@@ -93,6 +93,6 @@ if __name__ == "__main__":
 
         if bpm_data:
             print("Generando imagen BPMgraph...")
-            plot_bpm_data_caciones(bpm_data, output_png)
+            plot_bpm_data_canciones(bpm_data, output_png)
         else:
             print("No se encontraron canciones o no se pudieron procesar.")
